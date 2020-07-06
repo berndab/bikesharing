@@ -14,8 +14,7 @@ There are signifcant differences between New York and Des Moines in terms of pop
 
 Since the highest use of the bike sharing serice in New York strongly correlates with the areas of the city that have the highest population desities and lowest low car ownership rates, these two condition must be considered as major factors that cause such a high demand for the bike sharing service.   
 
-
-
+Care availabilty and car useage is areas of Manhattan are a rare occasion making residents much more receptive to using a bike sharing service while car usage in Des Moines is a daily part of all the city residients daily routine making it much harder and more out of the ordinary for residnets to be attracted to a bike sharing service
 
 ## Smaller Title
 ### Even Smaller Title
