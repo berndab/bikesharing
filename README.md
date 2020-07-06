@@ -8,12 +8,17 @@ New York City is one of the most challenging environments for biking, This is du
 However, the vast differences in the population size, geographical area, and car ownership rates between New York City and Des Moines Iowa, indicate that there are significant differences in the factors that influence the demand for and the utilization of a bike sharing service in each city. These significant differences in these factors must be analyzed closely to determine how effective the NYC Citi Bike bike sharing utilization data is in predicting the feasibility of a bike sharing service in Des Moines, Iowa. 
 
 
-## NYC Citi Bike August Ride Data
+## NYC Citi Bike Data - Analysis
 
-By all measures, NYC's Citi Bike sharing service is a astonishing success.  According to the August 2019 ride data, the bike sharing service provided 2,344,244 bike rides during that month. Citi Bike yearly subscribers took 900,359 of those riders while 443,856 rides were provided to one-time users. The high number of rides taken by yearly subscribers who choose use the service throughout the year and the age data provided by the average ride time by age indicates a high sustained demand for the bike sharing service by city residents over a wide age range. 
+
+[NYC Citi Bike Data](https://public.tableau.com/profile/dean.bernocchi#!/vizhome/bikesharing_module/NYCCitiBikeData?publish=yes) for August 2019 usage indicates by all measures that the bike sharing service is a astonishing success.  According to the August 2019 ride data, the bike sharing service provided 2,344,244 bike rides during that month. Citi Bike yearly subscribers took 900,359 of those riders while 443,856 rides were provided to one-time users. The high number of rides taken by yearly subscribers who choose use the service throughout the year and the age data provided by the average ride time by age indicates a high sustained demand for the bike sharing service by city residents over a wide age range.
+
 The 807 ride stations are almost evenly distributed over the area that the service is available. This makes the service an attractive and flexible transportation choice. Wherever the user is in the bike sharing service area there is a bike station close to where they are currently located and a bike station close to where they want to go. The trip duration data shows that having stations in close proximity to where the user wants to start a trip and end the trip, allows user to choose the service to travel distance that take as short a time as four minutes or to choose the service to travel distances that take as long as 45 minutes. The trip duration data show that users my use the service to go to a location in the same borough or to travel between boroughs such as going from Brooklyn to Midtown Manhattan.
+
 The service time of day usage data shows two peaks usage times for the service that occur around 9 AM and 6 PM. This indicates that a significant number of city residents choose to commute to work by bike as their preferred transportation option. This demonstrates how the bike sharing service has become a critical part of the transportation infrastructure that city residents depend on for essential travel.
+
 Overall, the bike sharing usage data show that a bike sharing service can become an integral part of the transportation infrastructure of any city, even one like New York with its high traffic congestion and many miles of streets that difficult to navigate by bike. The fact that such a significant demand for a bike sharing service exists in a city as complex and as large as New York demonstrates that cities the size of Des Moines may currently have an unmet demand for a bike sharing and would be an attractive place to start a bike sharing service.
+
 
 
 
