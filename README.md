@@ -25,7 +25,7 @@ The [NYC % Car Ownership](https://public.tableau.com/profile/dean.bernocchi#!/vi
 
 ### NYC Ride Frequency Map vrs Car % Ownership Map
 
-The [Ride Frequency Map vrs Car % Ownership Map](https://public.tableau.com/profile/dean.bernocchi#!/vizhome/bikesharing_module/NYCCitiBikeData?publish=yes) story board shows a strong negative correlation low rates of car ownership and high demand for the bike share service. This conclusively shows that car ownership rates significantly increases the demand for the bike sharing service in NYC. 
+The [Ride Frequency Map vrs Car % Ownership Map](https://public.tableau.com/profile/dean.bernocchi#!/vizhome/bikesharing_module/NYCCitiBikeData?publish=yes) story board shows a strong negative correlation between low rates of car ownership and high demand for a bike share service. This conclusively shows that lower car ownership rates significantly increases the demand for the bike sharing service in NYC. 
 
 ### NYC vrs Des Moines Population Statistics
 
