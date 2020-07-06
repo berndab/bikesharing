@@ -10,6 +10,12 @@ By all measures NYC's Citi Bike bike sharing service is a astonishing success ac
 
 ## Population and Car Ownership Factors
 
+
+https://public.tableau.com/profile/dean.bernocchi#!/vizhome/bikesharing_module/NYCCitiBikeData?publish=yes
+https://public.tableau.com/profile/dean.bernocchi#!/vizhome/bikesharing_module/NYCCitiBikeData?publish=yes
+https://public.tableau.com/profile/dean.bernocchi#!/vizhome/bikesharing_module/NYCCitiBikeData?publish=yes
+
+
 There are signifcant differences between New York and Des Moines in terms of population and and car ownership which significantly affect the effectivness of the New York bike sharing data in determining the feasability of starting a bike share service in Des Moines. The population density of the three bourough of New York where bike share stations are located is between 8 and 29 time greater that the population density of Des Moines. In addition New York City ranks last in the US for car ownership with a car ownership rates in the areas of new your with bike sharing service ranging from as low as 18% to as high as 60% while Des Moines has a a car ownerhsip rate of 92%.
 
 Since the highest use of the bike sharing serice in New York strongly correlates with the areas of the city that have the highest population desities and lowest low car ownership rates, these two condition must be considered as major factors that cause such a high demand for the bike sharing service.   
@@ -19,3 +25,5 @@ Care availabilty and car useage is areas of Manhattan are a rare occasion making
 ## Smaller Title
 ### Even Smaller Title
 https://www.governing.com/gov-data/car-ownership-numbers-of-vehicles-by-city-map.html
+http://blog.tstc.org/2017/04/21/car-free-new-york-city/
+https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems
