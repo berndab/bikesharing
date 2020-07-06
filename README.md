@@ -6,12 +6,8 @@ Due to the vast differences in the population size, geographical layout, and per
 
 ## NYC Citi Bike Success
 
-By all measures NYC's Citi Bike bike sharing service is a astonishing success. 
+By all measures NYC's Citi Bike bike sharing service is a astonishing succes according to the [August 2019 ride data](https://public.tableau.com/profile/dean.bernocchi#!/vizhome/bikesharing_module/NYCCitiBikeData?publish=yes) for the service
 
-
-<iframe
-  src="https://public.tableau.com/profile/dean.bernocchi#!/vizhome/bikesharing_module/NYCCitiBikeData?publish=yes"
-></iframe>
 
 ## Smaller Title
 ### Even Smaller Title
