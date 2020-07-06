@@ -17,13 +17,13 @@ The NYC City Bike system has 807 ride stations that are almost evenly distribute
 
 Overall, the bike sharing usage data shows that a bike sharing service can become an integral part of the transportation option for any city, even one like New York, with its high traffic congestion and many miles of streets that difficult to navigate by bike. The fact that such a significant demand for a bike sharing service exists in a city as complex and as large as New York demonstrates that cities the size of Des Moines may currently have an unmet demand for a bike sharing and would be an attractive place to start a bike sharing service.
 
-## City Characteristic Differences Between New York vrs Des Moines
+## Differences Between New York vrs Des Moines
 
-## NYC % Car Ownership
+### NYC Car Ownership Rates vrs Des Moines
 
 the [NYC % Car Ownership](https://public.tableau.com/profile/dean.bernocchi#!/vizhome/bikesharing_module/NYCCitiBikeData?publish=yes) story board show that New York City and particularly the part of New York City that the NYC Citi Bike service covers have very low rates of car ownership ranging from 18% to 60%. In fact, New York City has the [lowest rate of car ownership in the US](https://www.governing.com/gov-data/car-ownership-numbers-of-vehicles-by-city-map.html). In contrast, Des Moines has a [car ownership rate of 91.5%.](https://www.governing.com/gov-data/car-ownership-numbers-of-vehicles-by-city-map.html)
 
-## Ride Frequency Map vrs Car % Ownership Map
+### NYC Ride Frequency Map vrs Car % Ownership Map
 
 The [Ride Frequency Map vrs Car % Ownership Map](https://public.tableau.com/profile/dean.bernocchi#!/vizhome/bikesharing_module/NYCCitiBikeData?publish=yes) story board shows a strong negative correlation low rates of car ownership and high demand for the bike share service. This conclusively shows that car ownership rates significantly increases the demand for the bike sharing service in NYC. 
 
@@ -31,21 +31,22 @@ The [Ride Frequency Map vrs Car % Ownership Map](https://public.tableau.com/prof
 
 The [NYC vrs Des Moines Population Statistics]() story board shows a vast difference in the population makeup of New York and Des Moines. The area served by the NYC Citi Bike service has a total of 6,588,582 which is 30 times the population of Des Moines which is 217,891. The population density of the areas of New York that are served by the NYC Citi Bike service are 21,000 (Queens), 36,732 (Brooklyn), and 70,826 (Manhattan) per square mile which is 8, 15, and 29 time greater than the population density of Des Moines which is 2,471. In addition, comparing the population desities of these areas of New York to the demand for bike sharing service show that higher population density increased the demand for bike sharing service. 
 
-### Conclusion
+## Conclusion
 
 Because of the significant differences between New York and Des Moines in terms of population and and car ownership rates and the correstion established be low car ownership rates, higher population density to increase usage of bike sharing service, the bike share data from NYC is severly limited in its ability to predict the feasability and demand for a bike sharing service in Des Moines, Iowa. What the data does allow to be predicted is that demand for bike share service in Des Moines will be higher in areas of the city with lower car ownership rates and higher population densities. However the NYC data cannot predict if there is a strong enough demand in Des Monines to sustain any significant demand for bike share service in any area of the city to make the service sustainable in the long term. The bike sharing service in New York is a viable alternative for many resident mainly due to the fact that large areas of the city have low car ownership rates. Because of Des Moines high car ownership rates and low population density, NYC bike sharing data has extremelhy limited usefullnes for assesing the viability of a bike share service in Des Moines other than showing that a bike shares service can be successful in general. 
 
-determining the feasability of starting a bike share service in Des Moines. The population density of the three bourough of New York where bike share stations are located is between 8 and 29 time greater that the population density of Des Moines. In addition New York City ranks last in the US for car ownership with a car ownership rates in the areas of New Your with bike sharing service ranging from as low as 18% to as high as 60% while Des Moines has a a car ownerhsip rate of 92%.
+Since the NYC data does show bike share services can become successful and an integral part of a city's transporation infrastructure, the next step should be to research the demand for bike sharing services from cities that have similar population characteristics and car ownership rates as Des Moines. Information on all the cities of in the US that  have bike sharing services can be found [here.](https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems)
 
-Since the highest use of the bike sharing serice in New York strongly correlates with the areas of the city that have the highest population desities and lowest low car ownership rates, these two condition must be considered as major factors that cause such a high demand for the bike sharing service.   
 
-Care availabilty and car useage is areas of Manhattan are a rare occasion making residents much more receptive to using a bike sharing service while car usage in Des Moines is a daily part of all the city residients daily routine making it much harder and more out of the ordinary for residnets to be attracted to a bike sharing service
-
-## Smaller Title
 ### Sources 
 https://worldpopulationreview.com/us-cities/new-york-city-ny-population
+
 https://ny.curbed.com/2018/2/6/16979696/new-york-city-traffic-congestion-second-worst
+
 https://www.insider.com/most-dangerous-cities-to-ride-a-bike-in-2019-7#1-new-york-new-york-has-tens-of-thousands-of-bike-commuters-and-the-cycling-population-is-growing-despite-a-hrefhttpwwwnycgovhtmldotdownloadspdfcycling-in-the-citypdfover-1400-milesa-of-bike-lanes-and-a-a-hrefhttpswww1nycgovsitevisionzeroindexpagevision-zeroa-transportation-initiative-biking-remains-dangerous-20
+
 https://www.governing.com/gov-data/car-ownership-numbers-of-vehicles-by-city-map.html
+
 http://blog.tstc.org/2017/04/21/car-free-new-york-city/
+
 https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems
