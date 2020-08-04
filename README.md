@@ -42,14 +42,16 @@ Since the NYC data does show in general that a bike share services can become su
 
 
 ### Sources 
-https://worldpopulationreview.com/us-cities/new-york-city-ny-population
 
-https://ny.curbed.com/2018/2/6/16979696/new-york-city-traffic-congestion-second-worst
 
-https://www.insider.com/most-dangerous-cities-to-ride-a-bike-in-2019-7#1-new-york-new-york-has-tens-of-thousands-of-bike-commuters-and-the-cycling-population-is-growing-despite-a-hrefhttpwwwnycgovhtmldotdownloadspdfcycling-in-the-citypdfover-1400-milesa-of-bike-lanes-and-a-a-hrefhttpswww1nycgovsitevisionzeroindexpagevision-zeroa-transportation-initiative-biking-remains-dangerous-20
+[NYC Population 2020 ](https://worldpopulationreview.com/us-cities/new-york-city-ny-population)
 
-https://www.governing.com/gov-data/car-ownership-numbers-of-vehicles-by-city-map.html
+[NYC is the third most traffic congested city in the world](https://ny.curbed.com/2018/2/6/16979696/new-york-city-traffic-congestion-second-worst)
 
-http://blog.tstc.org/2017/04/21/car-free-new-york-city/
+[Cyclist deaths are rising nationwide — here are the 20 most dangerous cities to ride a bike in](https://www.insider.com/most-dangerous-cities-to-ride-a-bike-in-2019-7)
 
-https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems
+[Vehicle Ownership in U.S. Cities Data and Map](https://www.governing.com/gov-data/car-ownership-numbers-of-vehicles-by-city-map.html)
+
+[How Car-Free is New York City?](http://blog.tstc.org/2017/04/21/car-free-new-york-city/)
+
+[https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems](https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems)
