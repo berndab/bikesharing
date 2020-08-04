@@ -54,4 +54,4 @@ Since the NYC data does show in general that a bike share services can become su
 
 [How Car-Free is New York City?](http://blog.tstc.org/2017/04/21/car-free-new-york-city/)
 
-[https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems](https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems)
+[List of bicycle-sharing systems](https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems)
